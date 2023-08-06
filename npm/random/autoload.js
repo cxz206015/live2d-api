@@ -70,3 +70,7 @@ console.log(`
                   ﾄ-,/  |___./
                   'ｰ'    !_,.:
 `);
+
+/* 可直接修改部分参数 */
+live2d_settings["modelId"] = 1; // 默认模型 ID
+live2d_settings["modelTexturesId"] = 6; // 默认材质 ID
