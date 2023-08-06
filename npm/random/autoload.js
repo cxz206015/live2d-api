@@ -2,7 +2,7 @@
 // const live2d_path =
 //   "https://fastly.jsdelivr.net/gh/nova1751/live2d-widget@latest/";
 
-const live2d_path = "https://npm.elemecdn.com/noa-live2dapi@latest/";
+const live2d_path = "https://cdn2.chuqis.com/gh/adingapkgg/live2d-api/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
@@ -29,14 +29,18 @@ function loadExternalResource(url, type) {
 if (screen.width >= 768) {
   Promise.all([
     loadExternalResource(live2d_path + "live2d.min.js", "js"),
-    loadExternalResource(live2d_path + "npm/random/waifu-tips.js", "js"),
+    loadExternalResource(
+      live2d_path +
+        "https://cdn2.chuqis.com/gh/adingapkgg/live2d-api/npm/random/waifu-tips.js",
+      "js"
+    ),
   ]).then(() => {
     // 配置选项的具体用法见 README.md
     initWidget({
       waifuPath: live2d_path + "waifu-tips.json",
 
       // apiPath: "https://live2d.fghrsh.net/api/",
-      cdnPath: "https://npm.elemecdn.com/noa-live2dapi@latest/",
+      cdnPath: "https://cdn2.chuqis.com/gh/adingapkgg/live2d-api/",
 
       tools: [
         "hitokoto",
