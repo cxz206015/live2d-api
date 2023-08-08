@@ -37,7 +37,7 @@ if (screen.width >= 768) {
       waifuPath: live2d_path + "waifu-tips.json",
 
       // apiPath: "https://live2d.fghrsh.net/api/",
-      cdnPath: "https://jsd.onmicrosoft.cn/gh/adingapkgg/live2d-api@main/",
+      cdnPath: "https://cdn.staticaly.com/gh/adingapkgg/live2d-api@main/",
       // cdnPath: "/",
 
       tools: [
