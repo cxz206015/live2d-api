@@ -159,7 +159,7 @@
         else {
           const e = document.createElement("script");
           (e.src =
-            "https://jsd.onmicrosoft.cn/gh/adingapkgg/live2d-api@main/asteroids.js"),
+            "https://jsd.onmicrosoft.cn/gh/adingapkgg/live2d-api@main/js/asteroids.js"),
             document.head.appendChild(e);
         }
       },
