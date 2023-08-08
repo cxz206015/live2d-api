@@ -55,7 +55,7 @@
   position: absolute;
   text-overflow: ellipsis;
   transition: opacity 1s;
-  width: 280px;
+  width: 240px;
   word-break: break-all;
   top: -60px;
 }
@@ -74,7 +74,7 @@
   cursor: grab;
   height: 350px;
   position: relative;
-  width: 350px;
+  width: 250;
 }
 
 #live2d:active {
@@ -87,7 +87,7 @@
   position: absolute;
   /* 控制按钮 */
   /* 靠左：left，靠右：right */
-  right: 10px;
+  right: 0px;
   top: 50px;
   transition: opacity 1s;
 }
