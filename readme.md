@@ -34,9 +34,9 @@
    ```html
    <link
      rel="stylesheet"
-     href="https://cdn.staticaly.com/gh/adingapkgg/live2d-api@main/waifu.css"
+     href="https://live2d-api.saop.cc/waifu.css"
    />
-   <script src="https://cdn.staticaly.com/gh/adingapkgg/live2d-api@main/js/autoload.js"></script>
+   <script src="https://live2d-api.saop.cc/js/autoload.js"></script>
    ```
 
 > 你可以下载下来`js`和`css`文件来进行自定义配置，详细请参考 [live2d-widget 配置](https://github.com/stevenjoezhang/live2d-widget#%E9%85%8D%E7%BD%AE-configuration)。
