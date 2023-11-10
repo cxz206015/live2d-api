@@ -4,7 +4,7 @@
 
 // const live2d_path = "https://cdn.staticaly.com/gh/adingapkgg/live2d-api@main/";
 // const live2d_path = "https://jsd.onmicrosoft.cn/gh/adingapkgg/live2d-api@main/";
-const live2d_path = "/";
+const live2d_path = "https://live2d-api.saop.cc/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
