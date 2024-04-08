@@ -24,9 +24,9 @@
    ```html
    <link
      rel="stylesheet"
-     href="https://fastly.jsdelivr.net/gh/AdingApkgg/live2d-api@latest/waifu.css"
+     href="https://fastly.jsdelivr.net/gh/cxz206015/live2d-api@latest/waifu.css"
    />
-   <script src="https://fastly.jsdelivr.net/gh/AdingApkgg/live2d-api@latest/js/autoload.js"></script>
+   <script src="https://fastly.jsdelivr.net/gh/cxz206015/live2d-api@latest/js/autoload.js"></script>
    ```
 
 2. 使用其他`CDN`节点引入。
@@ -34,14 +34,14 @@
    ```html
    <link
      rel="stylesheet"
-     href="https://live2d-api.saop.cc/waifu.css"
+     href="https://live2d-api.cxzde.cn/waifu.css"
    />
-   <script src="https://live2d-api.saop.cc/js/autoload.js"></script>
+   <script src="https://live2d-api.cxzde.cn/js/autoload.js"></script>
    ```
 
 > 你可以下载下来`js`和`css`文件来进行自定义配置，详细请参考 [live2d-widget 配置](https://github.com/stevenjoezhang/live2d-widget#%E9%85%8D%E7%BD%AE-configuration)。
 
-## 成果 What I've done
+## 作者成果 - AdingApkgg
 
 1. 修正了少女前线(Girls Frontline)等 live2d 模型的文件路径错误以及文件名称错误，对模型的展示视口进行了相关的适配并修复了切换模型报错的问题。
    > PS:这环节究极折磨，打死不做第二遍。
