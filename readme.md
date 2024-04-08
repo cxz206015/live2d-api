@@ -2,7 +2,7 @@
 
 ## 前言 To start with
 
-- 本项目`Fork`自 [nova1751/live2d-api](https://github.com/nova1751/live2d-api)。
+- 本项目`Fork`自 [AdingApkgg/live2d-api](https://github.com/AdingApkgg/live2d-api)。
 - 本项目 API 搭建方式参考自 [fghrsh/live2d_api](https://github.com/fghrsh/live2d_api)。
 - 本项目代码参考自 [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget)。
 - 本项目模型来自 [Eikanya/Live2d-model](https://github.com/Eikanya/Live2d-model)，仅供学习交流，请勿用于商业用途，如有侵权，请联系删除。
